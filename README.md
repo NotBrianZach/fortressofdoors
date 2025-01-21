@@ -122,8 +122,6 @@ and it was able to come up with some other analogies in a similar vein that are 
 
 A Bridge to Nowhere: Stretching endlessly over an abyss, with no visible destination but the promise of something just out of reach.
 
-An Ocean of Unspoken Words: Depths filled with the weight of thoughts never expressed, where silence echoes louder than any sound, symbolizing the immense void of what is left unsaid.
-
 A Mirror That Sees You First: A reflection that forms before you stand before it, suggesting identity shaped by external forces or a reality independent of perception.
 
 A Spiral Without a Center: An endless curve that turns inward forever, yet reveals no core, representing the search for meaning in an existence that defies resolution.
@@ -137,6 +135,8 @@ A Path Worn Into the Wind: A journey marked in a medium that leaves no trace, re
 A Question That Answers Itself: An inquiry so profound that the act of asking reveals its resolution, reflecting the unity of doubt and truth.
 
 A Void That Remembers: An emptiness that retains the imprint of what it once held, suggesting that absence itself can carry the weight of presence and memory.
+
+An Ocean of Unspoken Words: Depths filled with the weight of thoughts never expressed, where silence echoes louder than any sound, symbolizing the immense void of what is left unsaid.
 
 
 ![ocean](ocean.webp)
