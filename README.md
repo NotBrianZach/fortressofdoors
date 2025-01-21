@@ -92,7 +92,7 @@ Exploring these questions can sharpen your argument, reveal hidden dynamics, and
 also the title of the blog post got me thinking to ask the genie another question
 ... what exactly is a fortress made of doors? seems like a cool but ambiguous analogy
 
-[fortress](fortress.webp)
+![fortress](fortress.webp)
 
 
 Here are 10 possible analogies for a fortress made of doors:
@@ -139,5 +139,5 @@ A Question That Answers Itself: An inquiry so profound that the act of asking re
 A Void That Remembers: An emptiness that retains the imprint of what it once held, suggesting that absence itself can carry the weight of presence and memory.
 
 
-[ocean](ocean.webp)
+![ocean](ocean.webp)
 
